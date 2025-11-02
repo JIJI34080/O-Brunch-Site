@@ -1,0 +1,139 @@
+{
+  "Metadata": {
+    "defaultTitle": "O’Brunch - Brunch creativ a Neuchâtel",
+    "defaultDescription": "Scuvra O’Brunch a Le Landeron: brunch halal creativ, snacks, waffles e bavrondas artigianalas.",
+    "home": {
+      "title": "O’Brunch - Brunch a Le Landeron",
+      "description": "Gudogna in brunch creativ halal en il cor da Le Landeron."
+    },
+    "menu": {
+      "title": "Menu - O’Brunch",
+      "description": "Tut ils brunchs, snacks, waffles e bavrondas artigianalas."
+    },
+    "brunch": {
+      "title": "Experientscha brunch - O’Brunch",
+      "description": "Enconuscha nossa purschida da brunch generusa."
+    },
+    "gallery": {
+      "title": "Galleria - O’Brunch",
+      "description": "Ina sguardada visuanta en l’atmosfera e cuschina dad O’Brunch."
+    },
+    "about": {
+      "title": "Davet - O’Brunch",
+      "description": "Impra dapli davart la squadra, il concept e las valurs."
+    },
+    "contact": {
+      "title": "Contact - O’Brunch",
+      "description": "Scret ina notg per damondas u occurrenzas."
+    },
+    "reservation": {
+      "title": "Reservaziun - O’Brunch",
+      "description": "Reservescha tia maisa per in brunch a Le Landeron."
+    },
+    "legal": {
+      "title": "Infurmaziuns legalas - O’Brunch",
+      "description": "Infurmaziuns legalas davart O’Brunch."
+    }
+  },
+  "Navigation": {
+    "home": "Chasa",
+    "menu": "Menu",
+    "brunch": "Brunch",
+    "gallery": "Galleria",
+    "about": "Davet",
+    "contact": "Contact",
+    "reservation": "Reservaziun",
+    "legal": "Infurmaziuns legalas"
+  },
+  "Hero": {
+    "title": "Brunch gustus, creativ e halal a Neuchâtel",
+    "subtitle": "O’Brunch è Vies lieu cun fatg cuntschaint a Le Landeron per brunch, snacks e waffles artigianals.",
+    "cta": "Scuvrir il menu"
+  },
+  "Home": {
+    "conceptTitle": "Gust il di entir",
+    "concept": "Brunchs generus, snacks fatgs en chasa e waffles crouschs cun ingrediens freschs e halal.",
+    "highlightTitle": "Atmosfera moderna e cordiala",
+    "highlight": "Lums fraids, colurs terracotta e ina squadra appassiunada che ta beneventescha.",
+    "ctaBrunch": "Scuvrir il brunch",
+    "ctaReservation": "Reservescha ina maisa"
+  },
+  "Menu": {
+    "intro": "In menu stagiunal inspirà da producents locals.",
+    "sections": {
+      "brunch": "Brunchs da firma",
+      "waffles": "Waffles artigianals",
+      "snacks": "Snacks creativs",
+      "drinks": "Bavrondas & cafè"
+    }
+  },
+  "Brunch": {
+    "intro": "Noss brunchs cumbineschan gusts dal Levant cun inspiraziuns svizras per muments socials.",
+    "highlights": [
+      "Produts locals e halal",
+      "Opziuns vegetarianas e veganas",
+      "Bavrondas artigianalas"
+    ],
+    "callout": "Reservescha ed en lasse surprender da noss menu da brunch sorpresa!"
+  },
+  "Gallery": {
+    "intro": "Ina atmosfera cordiala, plats colurads e waffles irresistiblas.",
+    "images": [
+      "Brunchs colurads",
+      "Waffles crouschs",
+      "Spazi cunfortabel",
+      "Bavrondas frestgas"
+    ]
+  },
+  "About": {
+    "storyTitle": "Nossa istorgia",
+    "story": "O’Brunch è naschì or da la giada da cundivider receptas da famiglia e creativitad a Le Landeron.",
+    "teamTitle": "Ina squadra appassiunada",
+    "team": "Fundà da Leïla e Sami, il restaurant metta il center sin generusadad, qualitad e cordialitad.",
+    "valuesTitle": "Nossas valurs",
+    "values": [
+      "Cuschina halal e responsabla",
+      "Produts freschs & locals",
+      "Bainvegni cordial"
+    ]
+  },
+  "Contact": {
+    "intro": "Damondas? Vuls organisar ina occurrenza privata? Scret nus!",
+    "form": {
+      "name": "Num",
+      "email": "E-mail",
+      "message": "Messadi",
+      "submit": "Trametter"
+    }
+  },
+  "Reservation": {
+    "intro": "Endatescha tias infurmaziuns e nus ans mettain en contact per confermar.",
+    "form": {
+      "name": "Num",
+      "email": "E-mail",
+      "date": "Data",
+      "time": "Ura",
+      "guests": "Dumber giasts",
+      "submit": "Trametter dumonda"
+    }
+  },
+  "Legal": {
+    "company": "O’Brunch SA",
+    "address": "Rue du Marché 12, 2525 Le Landeron, Svizra",
+    "vat": "IDI: CHE-123.456.789",
+    "contact": "info@obrunch.ch",
+    "content": "Tut las infurmaziuns sin questa pagina stattan a disposiziun sco indicaziun. Tut ils dretgs reserves."
+  },
+  "Footer": {
+    "hoursTitle": "Uras d’avertura",
+    "hours": "Mesemna - Dumengia: 09:00 – 17:00",
+    "addressTitle": "Adressa",
+    "address": "Rue du Marché 12, 2525 Le Landeron",
+    "followUs": "Suonda nus"
+  },
+  "Forms": {
+    "success": "Grazia fitg! Nus ans annunziain bainbaud.",
+    "error": "Ina errur è succedida. Emprova danovamain.",
+    "required": "Champ obligatoric"
+  }
+}
