@@ -1,0 +1,139 @@
+{
+  "Metadata": {
+    "defaultTitle": "O’Brunch - Creative halal brunch in Neuchâtel",
+    "defaultDescription": "Discover O’Brunch in Le Landeron: creative halal brunch, snacks, waffles and handcrafted drinks.",
+    "home": {
+      "title": "O’Brunch - Brunch in Le Landeron",
+      "description": "Enjoy a creative halal brunch in the heart of Le Landeron."
+    },
+    "menu": {
+      "title": "Menu - O’Brunch",
+      "description": "Explore our brunch, snack, waffle and beverage offering."
+    },
+    "brunch": {
+      "title": "Brunch experience - O’Brunch",
+      "description": "Learn more about our generous brunch ritual."
+    },
+    "gallery": {
+      "title": "Gallery - O’Brunch",
+      "description": "Step inside the atmosphere and flavours of O’Brunch."
+    },
+    "about": {
+      "title": "About - O’Brunch",
+      "description": "Meet the team and discover the philosophy behind the restaurant."
+    },
+    "contact": {
+      "title": "Contact - O’Brunch",
+      "description": "Get in touch with the O’Brunch team."
+    },
+    "reservation": {
+      "title": "Reservation - O’Brunch",
+      "description": "Book your table for a brunch moment in Le Landeron."
+    },
+    "legal": {
+      "title": "Legal notice - O’Brunch",
+      "description": "Legal information about O’Brunch."
+    }
+  },
+  "Navigation": {
+    "home": "Home",
+    "menu": "Menu",
+    "brunch": "Brunch",
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "Contact",
+    "reservation": "Reservation",
+    "legal": "Legal"
+  },
+  "Hero": {
+    "title": "Creative, indulgent & halal brunch in Neuchâtel",
+    "subtitle": "O’Brunch is your cosy spot in Le Landeron for brunch, snacks and artisan waffles.",
+    "cta": "View the menu"
+  },
+  "Home": {
+    "conceptTitle": "Taste all day long",
+    "concept": "Generous brunches, homemade snacks and crispy waffles prepared with fresh halal ingredients.",
+    "highlightTitle": "Warm & modern ambience",
+    "highlight": "Sun-kissed interiors, terracotta hues and a passionate team ready to host you.",
+    "ctaBrunch": "Discover the brunch",
+    "ctaReservation": "Book a table"
+  },
+  "Menu": {
+    "intro": "A seasonal menu inspired by local producers.",
+    "sections": {
+      "brunch": "Signature brunches",
+      "waffles": "Artisan waffles",
+      "snacks": "Creative snacks",
+      "drinks": "Drinks & coffee"
+    }
+  },
+  "Brunch": {
+    "intro": "Our brunch blends Levantine flavours with Swiss inspiration for joyful gatherings.",
+    "highlights": [
+      "Local & halal produce",
+      "Vegetarian and vegan options",
+      "House-made drinks"
+    ],
+    "callout": "Book your table and let our surprise brunch menu delight you!"
+  },
+  "Gallery": {
+    "intro": "A warm atmosphere, colourful plates and waffles worth the craving.",
+    "images": [
+      "Colourful brunches",
+      "Crispy waffles",
+      "Cosy space",
+      "Fresh drinks"
+    ]
+  },
+  "About": {
+    "storyTitle": "Our story",
+    "story": "O’Brunch was born from the desire to share family recipes and creativity in the heart of Le Landeron.",
+    "teamTitle": "A passionate team",
+    "team": "Founded by Leïla and Sami, the restaurant champions generosity, quality and hospitality.",
+    "valuesTitle": "Our values",
+    "values": [
+      "Halal & responsible cuisine",
+      "Fresh, local produce",
+      "Warm welcome"
+    ]
+  },
+  "Contact": {
+    "intro": "Questions? Planning a private event? Drop us a message!",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send"
+    }
+  },
+  "Reservation": {
+    "intro": "Leave your details and we’ll get back to confirm your reservation.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "date": "Date",
+      "time": "Time",
+      "guests": "Number of guests",
+      "submit": "Send request"
+    }
+  },
+  "Legal": {
+    "company": "O’Brunch LLC",
+    "address": "Rue du Marché 12, 2525 Le Landeron, Switzerland",
+    "vat": "VAT: CHE-123.456.789",
+    "contact": "info@obrunch.ch",
+    "content": "Information on this site is provided for guidance only. All rights reserved."
+  },
+  "Footer": {
+    "hoursTitle": "Opening hours",
+    "hours": "Wednesday - Sunday: 09:00 – 17:00",
+    "addressTitle": "Address",
+    "address": "Rue du Marché 12, 2525 Le Landeron",
+    "followUs": "Follow us"
+  },
+  "Forms": {
+    "success": "Thank you! We’ll be in touch shortly.",
+    "error": "Something went wrong. Please try again.",
+    "required": "Required field"
+  }
+}
